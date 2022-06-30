@@ -28,3 +28,12 @@
 -Conditional GAN: How to generate images corresponding to class labels
 
 ---
+### **3. Dataset for transfer learning**
+---
+-A google drive link has been shared with you, it includes all the training data and trained model.
+-For dataset of dog_breed classification:
+    -Go to Thapar_summer_school folder 
+    -in side it Go to dog_breed_vgg16 folder
+    -it includes train folder and labels.csv file (Train folder includes 
+    -Kindly download it and put these folders on your google drive (it will take time and space, Kindly keep free some space in your drive for it) 
+    
