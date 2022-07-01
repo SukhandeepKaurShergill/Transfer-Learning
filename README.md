@@ -34,6 +34,6 @@
 - For dataset of dog_breed classification:
     - Go to Thapar_summer_school folder 
     - in side it Go to dog_breed_vgg16 folder
-    - it includes train folder and labels.csv file (Train folder includes 
+    - it includes data.zip and .hdf5 file of trained model
     - Kindly download it and put these folders on your google drive (it will take time and space, Kindly keep free some space in your drive for it) 
     
